@@ -120,7 +120,7 @@
             "windows": "<#ffffff>\ue27f</>"
           },
           "style": "plain",
-          "template": "({{ if .WSL }}WSL at {{ end }}{{.Icon}})\u2500",
+          "template": "({{ if .WSL }}WSL at {{ end }}<#ffffff>{{.Icon}}</>)\u2500",
           "type": "os"
         },
         {
