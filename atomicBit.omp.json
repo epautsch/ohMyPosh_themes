@@ -14,7 +14,7 @@
           "template": "[<#990000>{{ .Path }}</>]",
           "type": "path",
 	  "properties": {
-	    "style": "agnoster_short",
+	    "style": "agnoster",
 	    "home_icon": "\udb80\udedc",
 	    "folder_icon": "\ue5fe",
 	    "max_depth": 1
